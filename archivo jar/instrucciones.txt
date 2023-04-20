@@ -1,0 +1,4 @@
+Pasos a seguir para ejecutar el archivo JAR:
+1. Abrir el Símbolo del sistema (cmd)
+2. Ingresar "cd (nombre o ruta de la carpeta que posee el archivo JAR)"
+3. Para ejecutar el archivo ingresar: java -jar conversor-alura.jar
