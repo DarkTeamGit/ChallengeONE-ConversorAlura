@@ -1,7 +1,7 @@
 | <img src="./imagenes/Menu.jpg" width="100%"> | <img src="./imagenes/Ingresar Valor.jpg" width="100%"> |
 | :------------------------------------------: | :----------------------------------------------------: |
 | <img src="./imagenes/Seleccionar Opcion.jpg" width="100%"> | <img src="./imagenes/Resultado.jpg" width="100%"> |
-<h2>Challenge ONE - Oracle Next Education | Conversor de Moneda - Alura</h2>
+<h2>Challenge ONE - Oracle Next Education | Conversor de Moneda</h2>
 <p>Se solicitó crear un conversor de divisas utilizando el lenguaje Java. Hay características solicitadas.</p>
 <hr/>
 <b>Requisitos:</b>
@@ -30,3 +30,4 @@ Recordando que también debe ser posible convertir inversamente, es decir:
 <ul>
 <li>Posee la opción para convertir la temperatura Celsius (°C) <->	Fahrenheit (°F)</li>
 </ul>
+<p><b>Nota:</b> Hay un archivo ".jar" para visualizar la ejecución del proyecto.</p>
